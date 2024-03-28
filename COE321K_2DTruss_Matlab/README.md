@@ -6,9 +6,6 @@ Write a 2D truss MATLAB code to analyze the deformation and stresses in the stru
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
