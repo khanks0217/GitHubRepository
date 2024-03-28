@@ -34,7 +34,7 @@ This section contains the OpenFOAM and MATLAB files for calculating the drag coe
   - Re20_t100_Ux.xy - OpenFOAM file containing the x component of velocity (Ux) along the outlet of the domain boundary.
   - Drag_Analysis.m - MATLAB File for calculating the drag coefficient as a function of the y distance from the center of the cylinder.
 
-## Usage
+## Visualization
 
 To visualize results import the desired "circularcylinder.foam" into ParaView.
 
