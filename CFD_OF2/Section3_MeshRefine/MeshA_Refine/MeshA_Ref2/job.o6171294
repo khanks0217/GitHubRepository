@@ -1,0 +1,8 @@
+/work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2
+Tue Mar 12 15:22:15 CDT 2024
+Running blockMesh on /work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2
+Running checkMesh on /work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2
+Running decomposePar on /work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2
+Running icoFoam in parallel on /work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2 using 2 processes
+Running reconstructPar on /work2/08365/khanks/frontera/COE_347/OF2/S7_MeshRefinement/A_Refine/MeshA_Ref2
+Tue Mar 12 15:25:24 CDT 2024
