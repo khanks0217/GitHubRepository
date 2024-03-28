@@ -5,10 +5,7 @@ In this study, the objective is to simulate the flow around a two dimensional ci
 ## Table of Contents
 
 - [File Contents](#FileConents)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Visualization](#visualization)
 
 ## FileContents
 
@@ -34,12 +31,10 @@ This section contains the OpenFOAM and MATLAB files for exploring the Strouhal n
     
 **Section5_Drag**
 This section contains the OpenFOAM and MATLAB files for calculating the drag coefficient where (Re=20).
+  - Re20_t100_Ux.xy - OpenFOAM file containing the x component of velocity (Ux) along the outlet of the domain boundary.
+  - Drag_Analysis.m - MATLAB File for calculating the drag coefficient as a function of the y distance from the center of the cylinder.
 
 ## Usage
 
-Instructions for using the project...
+To visualize results import the desired "circularcylinder.foam" into ParaView.
 
-## Features
-
-- Feature 1
-- Feature 2
